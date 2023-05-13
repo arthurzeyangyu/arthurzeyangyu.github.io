@@ -3,11 +3,11 @@
 table#tlayout {
     border: none;
     border-collapse: separate;
-    background: black;
+    background: white;
 }
 
 body {
-	background: black;
+	background: white;
 	font-family: Georgia, serif;
 	padding-bottom: 8px;
 	margin: 0;
