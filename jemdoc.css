@@ -8,7 +8,7 @@ table#tlayout {
 
 body {
 	background: white;
-	font-family: Times New Roman, Times, serif;
+	font-family: system-ui, math;
 	padding-bottom: 8px;
 	margin: 0;
 }
