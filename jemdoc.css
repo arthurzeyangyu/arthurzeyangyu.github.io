@@ -6,13 +6,11 @@ table#tlayout {
     background: white;
 }
 
-html, body {
+body {
 	background: white;
 	font-family: system-ui, math, monospace;
 	padding-bottom: 8px;
 	margin: 0;
-	justify-content: center;
-	align-items: center;
 }
 
 #layout-menu {
